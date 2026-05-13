@@ -1,10 +1,13 @@
 # PEM-Fuel-Cell-Modeling-and-Control
 This project presents a dynamic PEM fuel cell model developed in MATLAB/Simulink, including electrochemical losses (activation, ohmic, and concentration losses), hydrogen and oxygen pressure dynamics, and PI-based pressure control systems. The model analyzes voltage-current-power characteristics under varying load conditions and simulates realistic fuel cell behavior.
 ## Features
-- PEM Fuel Cell Dynamic Modeling
-- Activation, Ohmic, and Concentration Losses
-- Hydrogen (PH₂) and Oxygen (PO₂) Dynamic Pressure Modeling
-- PI-Based Pressure Control System
-- Dynamic Load Analysis
-- Voltage-Current-Power Characteristic Analysis
-- MATLAB/Simulink Simulation
+- PEM Fuel Cell
+- MATLAB/Simulink
+- Dynamic System Modeling
+- PI Controller
+- Hydrogen and Oxygen Dynamics
+- Renewable Energy Systems
+- Fuel Cell Control
+- Electrochemical Modeling
+- Voltage-Current Characteristics
+- Energy System Simulation
